@@ -15,4 +15,4 @@ ubuntu@ubuntu-xenial:/vagrant$ python3 logs.py
 
 3. Days with more than 1% of request that lead to an error:
 
-	2018-06-18 ---> 2.26 %
+	2016-07-17 ---> 2.26 %
